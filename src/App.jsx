@@ -6,7 +6,7 @@ import ProductDetail from "./page/ProductDetail"
 import MyCart from "./page/MyCart"
 import NotFound from "./page/NotFound"
 import ProductedRoute from "./page/ProductedRoute"
-import Products from "./components/products"
+import Products from "./components/Products"
 
 function App() {
   const router = createBrowserRouter([
